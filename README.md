@@ -11,4 +11,5 @@ I became smooth-brained during the pandemic, so these flashcards are meant to he
   * [Cloud + DevOps Engineering](https://quizlet.com/711337075/cloud-devops-engineering-flash-cards/)
   
 ## Mochi
-  * [Data Structures + Algorithms](https://app.mochi.cards/decks/06b1d622-9d8c-4fc8-b148-8d1b62f45a7c/DuSOPfQN/Data-Structures-Algorithms)
+  * [Data Structures](https://app.mochi.cards/decks/06b1d622-9d8c-4fc8-b148-8d1b62f45a7c/DuSOPfQN/Data-Structures-Algorithms)
+  * [Algorithms](https://app.mochi.cards/decks/06b1d622-9d8c-4fc8-b148-8d1b62f45a7c/petAYmPv/Algorithms) - includes code
