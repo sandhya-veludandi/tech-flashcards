@@ -7,10 +7,6 @@ I became smooth-brained during the pandemic, so these flashcards are meant to he
   * [Coding Challenges Terms + Techniques](https://quizlet.com/_by5spm?x=1qqt&i=3tpv2g)
 ### General Knowledge
   * [Programming Languages + Paradigms](https://quizlet.com/711340754/programming-languages-flash-cards/)
-  * [Internet](https://quizlet.com/711340914/internet-flash-cards/)
-### Specific
-  * [Software Architecture](https://quizlet.com/716686558/software-architecture-flash-cards/)
-  * [Cloud + DevOps Engineering](https://quizlet.com/711337075/cloud-devops-engineering-flash-cards/)
   
 ## Mochi
 ### Basics + Interview Prep
