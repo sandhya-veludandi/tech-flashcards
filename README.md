@@ -1,4 +1,4 @@
-# Tech Flashcards
+# Tech Flashcards (Data Structures, Algorithms, Programming Paradigms, etc.)
 These super simple and accessible flashcards help review computer science fundamentals like data structures and algorithms. There are 2 types of flashcard apps included - Quizlet and Mochi. Quizlet is good for reviewing terms and concepts while Mochi is good for reviewing code.
 ## Quizlet
 ### Basics + Interview Prep
