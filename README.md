@@ -2,8 +2,8 @@
 These super simple and accessible flashcards help review computer science fundamentals like data structures and algorithms. There are 2 types of flashcard apps included - Quizlet and Mochi. Quizlet is good for reviewing terms and concepts while Mochi is good for reviewing code.
 ## Quizlet
 ### Basics + Interview Prep
-  * [Data Structures](https://quizlet.com/_by8i89?x=1jqt&i=3tpv2g) - data structure definitions, purposes, and time + space complexities
-  * [Algorithms](https://quizlet.com/_c0d5fa?x=1jqt&i=3tpv2g) - sorting, algorithmic approaches, and graph traversals
+  * [Data Structures](https://quizlet.com/_c0g6vy?x=1jqt&i=3tpv2g) - data structure definitions, purposes, and time + space complexities
+  * [Algorithms](https://quizlet.com/_c0i03s?x=1jqt&i=3tpv2g) - sorting, algorithmic approaches, and graph traversals
 ### General Knowledge
   * [Programming Languages + Paradigms](https://quizlet.com/711340754/programming-languages-flash-cards/)
   
