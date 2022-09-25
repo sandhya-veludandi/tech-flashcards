@@ -15,3 +15,4 @@ These super simple and accessible flashcards help review computer science fundam
 ## Resources
 * https://github.com/kdn251/interviews
 * https://github.com/plaxamana/mastering-the-coding-interview
+* https://github.com/sandhya-veludandi/master-the-coding-interview
