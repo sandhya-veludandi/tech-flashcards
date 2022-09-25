@@ -11,3 +11,7 @@ These super simple and accessible flashcards help review computer science fundam
 ### Basics + Interview Prep
   * [Data Structures](https://app.mochi.cards/decks/06b1d622-9d8c-4fc8-b148-8d1b62f45a7c/DuSOPfQN/Data-Structures)
   * [Algorithms](https://app.mochi.cards/decks/06b1d622-9d8c-4fc8-b148-8d1b62f45a7c/petAYmPv/Algorithms) - includes code
+
+## Resources
+* https://github.com/kdn251/interviews
+* https://github.com/plaxamana/mastering-the-coding-interview
