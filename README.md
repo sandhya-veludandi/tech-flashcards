@@ -13,6 +13,7 @@ These super simple and accessible flashcards help review computer science fundam
   * [Algorithms](https://app.mochi.cards/decks/06b1d622-9d8c-4fc8-b148-8d1b62f45a7c/petAYmPv/Algorithms) - includes code
 
 ## Sources
+* [✨Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 * [kdn251/interviews](https://github.com/kdn251/interviews)
 * [plaxamana/mastering-the-coding-interview](https://github.com/plaxamana/mastering-the-coding-interview)
 * [sandhya-veludandi/master-the-coding-interview](https://github.com/sandhya-veludandi/master-the-coding-interview)
